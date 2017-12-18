@@ -1,0 +1,6 @@
+License for brush.svg
+
+Author: Webalys
+Link: http://www.webalys.com/
+Filename: brush.svg
+License: Free for commercial use (Include link to authors website)

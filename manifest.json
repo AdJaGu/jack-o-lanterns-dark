@@ -1,0 +1,35 @@
+{
+  "applications": {
+    "gecko": {
+      "id": "jack-o-lanterns-dark@adjagu.org",
+      "strict_min_version": "57.0"
+    }
+  },
+  "description": "Jack-o'-lanterns (pumpkins) theme with a dark background and light text.",
+  "developer": {
+    "name": "AdJaGu",
+    "url": "https://github.com/AdJaGu/jack-o-lanterns-dark/"
+  },
+  "icons": {
+    "48": "img/icon/brush.svg",
+    "96": "img/icon/brush.svg"
+  },
+  "manifest_version": 2,
+  "name": "Jack-o'-lanterns Dark",
+  "short_name": "Pumpkin Dark",
+  "theme": {
+    "colors": {
+      "accentcolor": "#000000",
+      "tab_text": [255, 255, 255],
+      "textcolor": "#ffffff",
+      "toolbar": "#",
+      "toolbar_field": "rgba(255, 255, 255, 10%)",
+      "toolbar_field_text": "#ffffff",
+      "toolbar_text": "#ffffff"
+    },
+    "images": {
+      "headerURL": "img/header/pumpkin-panorama.png"
+    }
+  },
+  "version": "0.0.1"
+}
